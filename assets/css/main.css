@@ -122,7 +122,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #555;
-		font-weight: 400;
+		font-weight: 300;
 	}
 
 	em, i {
@@ -373,8 +373,12 @@ input, select, textarea {
 			margin-left: 41.66667%;
 		}
 
-		.row > .col-6 {
-			width: 50%;
+		.row > .col-6-1 {
+			width: 70%;
+		}
+
+		.row > .col-6-2 {
+			width: 30%;
 		}
 
 		.row > .off-6 {
