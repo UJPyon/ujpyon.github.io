@@ -1,51 +1,31 @@
-
-TITLE: 
-Shape - 100% Fully Responsive Free HTML5 Bootstrap Template
-
-AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
-
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+Photon by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-CREDITS:
+A simple (gradient-heavy) single pager that revisits a style I messed with on two
+previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
+and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
 
-Bootstrap
-http://getbootstrap.com/
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-jQuery
-http://jquery.com/
+(* = Not included)
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
-Modernizr
-http://modernizr.com/
+AJ
+aj@lkn.io | @ajlkn
 
-Google Fonts
-https://www.google.com/fonts/
 
-Icomoon
-https://icomoon.io/app/
+Credits:
 
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+	Demo Images:
+		Unsplash (unsplash.com)
 
-animate.css
-http://daneden.me/animate
+	Icons:
+		Font Awesome (fontawesome.io)
 
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-jQuery countTo
-http://www.owlcarousel.owlgraphic.com/
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-Demo Images:
-http://pixeden.com
-http://unsplash.com
-
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
