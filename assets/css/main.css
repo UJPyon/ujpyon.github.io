@@ -535,6 +535,12 @@ input, select, textarea {
 					padding-top: 4em;
 				}
 
+		.skill-icons {
+			font-size: 90px;
+			width: 90px;
+			height: 90px;
+		}
+
 		@media screen and (max-width: 1680px) {
 
 			.row {
