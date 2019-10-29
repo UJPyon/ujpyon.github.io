@@ -7,6 +7,10 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+li {
+	list-style: none;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -1073,7 +1077,7 @@ input, select, textarea {
 				}
 
 				.row > .imp-medium {
-					order: -1;
+					/* order: -1; */
 				}
 
 				.row > .col-1-medium {
@@ -2419,11 +2423,11 @@ input, select, textarea {
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
-		padding-left: 1em;
+		/* padding-left: 1em; */
 	}
 
 		ul li {
-			padding-left: 0.5em;
+			/* padding-left: 0.5em; */
 		}
 
 		ul.alt {
