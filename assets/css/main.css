@@ -2927,11 +2927,12 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 9em 0 9em 0 ;
-		background-color: #4686a0;
+		padding: 10em 0 10em 0 ;
+		background-color: rgb(63, 63, 63);
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+		/* background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2); */
+		background-image: url('../../images/nyc-background-dark.jpg');
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -3090,7 +3091,8 @@ input, select, textarea {
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+			/* background-image: linear-gradient(45deg, #4fa49a, #4361c2); */
+			background-image: url('../../images/nyc-background.jpg');
 			content: '';
 			height: 100%;
 			left: 0;
@@ -3251,7 +3253,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 6em 0 6em 0 ;
+				padding: 11em 0 11em 0 ;
 			}
 
 	}
