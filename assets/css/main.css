@@ -509,7 +509,7 @@ input, select, textarea {
 			margin-top: 0;
 			margin-left: -3em;
 			display: flex;
-			justify-content: space-evenly;
+			justify-content: space-around;
 		}
 
 			.row.gtr-150 > * {
@@ -759,6 +759,8 @@ input, select, textarea {
 				.row.gtr-150 {
 					margin-top: 0;
 					margin-left: -3em;
+					display: flex;
+					justify-content: space-around;
 				}
 
 					.row.gtr-150 > * {
