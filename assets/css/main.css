@@ -760,7 +760,7 @@ input, select, textarea {
 					margin-top: 0;
 					margin-left: -3em;
 					display: flex;
-					justify-content: space-around;
+					justify-content: end;
 				}
 
 					.row.gtr-150 > * {
@@ -1499,7 +1499,7 @@ input, select, textarea {
 				}
 
 					.row.gtr-150 > * {
-						padding: 0 0 0 3em;
+						padding: 0 0 0 4em;
 					}
 
 					.row.gtr-150.gtr-uniform {
@@ -3362,6 +3362,12 @@ input, select, textarea {
 				text-align: center;
 			}
 
+		/* Two */
+
+			#newtwo {
+				text-align: initial;
+			}
+
 	}
 
 /* Small */
@@ -3528,3 +3534,38 @@ input, select, textarea {
 			}
 
 	}
+
+.work-exp-list > li {
+	list-style-type: circle;
+	text-align: initial;
+	margin-bottom: 15px;
+}
+
+.work-exp-list {
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+
+.cc-img {
+	width: 100%;
+	margin-bottom: 25px;
+}
+
+.cc-img > a > img {
+	max-width: 500px;
+	text-decoration: none !important;
+   border:0px !important;
+   outline:none;
+   border-width: 0px;
+   outline-width:0px;
+   border-bottom: none;
+}
+
+.exp-p1 {
+	margin: 0;
+}
+
+.exp-p2 {
+	margin-bottom: 25px;
+}
